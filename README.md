@@ -107,3 +107,4 @@ EMKT_NOV_CYBER-WEEK_5-NOITES-PAGUE-4/
 │   └── social-*.png                     # Ícones oficiais das redes sociais
 └── EMKT_NOV_CYBER-WEEK_5-NOITES-PAGUE-4.zip # Pacote compactado para importação em ESP/CRM
 ```
+
