@@ -21,19 +21,19 @@ E-mail marketing comercial responsivo desenvolvido para a campanha de **Cyber We
 
 ---
 
-## 🎨 Paleta Cromática Institucional (Manual de Marca V01 + Cyber Week)
+## 🎨 Paleta Cromática Institucional (Manual de Marca V01 — Tema Claro)
 
 | Cor / Elemento | Código HEX | Uso no Layout |
 | :--- | :---: | :--- |
-| **Preto Campanha / Cyber** | `#0a1017` / `#050a0f` | Fundo principal do e-mail e contraste de alta legibilidade |
-| **Cyber Blue (Ciano)** | `#06cbd7` | Destaque do número 5, títulos com energia e bordas interativas |
-| **Laranja Solar (P3)** | `#e47939` | Destaque do número 4, botões CTA primários e linhas de acento |
-| **Cyber Navy (Azul Escuro)** | `#101f40` | Base do selo oficial da Cyber Week |
-| **Verde Marinho (P2 / S2A)** | `#35747d` | Barra de prazo de vendas e faixas de destaque |
-| **Verde Marinho Escuro (S2B)** | `#314b4f` | Bloco exclusivo do programa Praia+ Fidelidade |
-| **Bege Areia Claro (S1B)** | `#ded7d4` | Tipografia de leitura secundária e textos de apoio |
-| **Bege Areia Médio (S1A)** | `#a3938a` | Legendas, disclaimers e notas de regulamento |
-| **Laranja Suave (S3B)** | `#f0b795` | Ícones e grafismo institucional das hastes Praiamar |
+| **Areia Suave (Fundo Externo)** | `#f3efed` | Fundo principal da página e respiro visual (não escuro) |
+| **Branco Puro (Container)** | `#ffffff` | Cartão principal do e-mail (600px) e blocos de conteúdo |
+| **Verde Marinho Escuro (S2B)** | `#314b4f` | Tipografia principal, títulos H1/H2 e logo institucional |
+| **Verde Marinho Vivo (P2 / S2A)** | `#08838f` / `#35747d` | Destaque do número 5, títulos complementares e selos |
+| **Laranja Solar (S3A)** | `#e47939` | Destaque do número 4, botões CTA e linhas de acento |
+| **Areia Quente (Bege)** | `#f7f4f2` | Fundo de cartões de destaque e rodapé padrão |
+| **Azul Gelo Suave** | `#eef7f8` / `#f4f8f8` | Fundo da faixa de prazo e box do Praia+ Fidelidade |
+| **Texto de Leitura (Marrom Escuro)** | `#53463f` | Textos corridos e parágrafos de alta legibilidade (WCAG AAA) |
+| **Bege Areia Médio (S1A)** | `#80736c` | Legendas, disclaimers e notas de regulamento |
 
 ---
 
