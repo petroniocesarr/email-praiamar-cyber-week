@@ -48,7 +48,7 @@ E-mail marketing comercial responsivo desenvolvido para a campanha de **Cyber We
    - CTA Primário: **QUERO UMA NOITE GRÁTIS**.
 
 2. **02 \| BLOCO MECÂNICA PROMOCIONAL:**
-   - Título: *"Mais uma noite em Natal. Sem pagar pela quinta."*
+   - Título: *"Mais uma noite em Natal, sem pagar nada a mais por isso."*
    - Explicação sem rodeios da mecânica promocional.
    - Card de equação visual: **`5 NOITES` = `PAGUE 4`** com badge *"A 5ª NOITE É GRÁTIS"*.
    - Apoio com advertência de disponibilidade e regulamento.
